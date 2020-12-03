@@ -1,0 +1,22 @@
+{
+  "name": "yjglasses",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "scripts/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/dev-yogesh/YJGlasses",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Yogesh",
+  "license": "",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  }
+}
